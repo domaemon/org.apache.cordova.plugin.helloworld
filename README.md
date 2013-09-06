@@ -1,4 +1,4 @@
-cordova-plugin-helloworld
+org.apache.cordova.plugins.helloworld
 =========================
 
 This is probably the simplest form of cordova plugin. It uses only javascript and does not rely on any native capabilities.
